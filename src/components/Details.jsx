@@ -145,7 +145,7 @@ export const Deatils = () => {
         </Grid>
 
         <div className="tagLine">
-          <p id="madeByG16">Collage Project Group 16.</p>
+          <p id="madeByG16">Collage Project Group 19.</p>
         </div>
       </Box>
     </>
