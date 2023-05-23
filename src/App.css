@@ -1,3 +1,5 @@
+
+
 .iconRotate {
     animation: iconRotator 1s linear 0s 1;
 }
@@ -27,7 +29,7 @@
     margin-top: 20px;
 }
 
-#madeByMohit {
+#madeByG16 {
     color: #5e82f4;
     font-weight: 500;
     width: 0ch;
@@ -45,3 +47,4 @@
           width: 28ch;
       }
 }
+
